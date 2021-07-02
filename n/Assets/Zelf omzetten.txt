@@ -1,0 +1,12 @@
+while true:
+    if trein nadert 
+        if !slagbomen dicht 
+            lichten aan
+            wacht 10 sec 
+            doe bomen dicht 
+        elif slagbomen dicht
+            if trein verwijdert
+                doe bomen open 
+                wacht 10 
+                lichten uit 
+    
